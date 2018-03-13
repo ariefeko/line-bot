@@ -24,3 +24,6 @@ Edit .env file with [LINE Developer](https://developers.line.me/messaging-api/ge
 ## License
 
 The This Project licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+# Deploy to Heroku:
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
